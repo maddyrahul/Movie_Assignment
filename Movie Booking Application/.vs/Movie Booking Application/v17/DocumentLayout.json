@@ -1,0 +1,688 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9D9CC-34B4-4B8D-A29A-0634CE08303E}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\presentation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F9D9CC-34B4-4B8D-A29A-0634CE08303E}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9D9CC-34B4-4B8D-A29A-0634CE08303E}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\presentation_layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55F9D9CC-34B4-4B8D-A29A-0634CE08303E}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\business_layer\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\business_layer\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\business_layer\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\business_layer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\business_layer\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\business_layer\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEBC24A-2843-45C2-B3B5-BC073C504592}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9D9CC-34B4-4B8D-A29A-0634CE08303E}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\presentation_layer\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F9D9CC-34B4-4B8D-A29A-0634CE08303E}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9D9CC-34B4-4B8D-A29A-0634CE08303E}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\presentation_layer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F9D9CC-34B4-4B8D-A29A-0634CE08303E}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F9D9CC-34B4-4B8D-A29A-0634CE08303E}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\presentation_layer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F9D9CC-34B4-4B8D-A29A-0634CE08303E}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\dtos\\showdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\showdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\models\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241004171209_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20241004171209_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241004134245_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20241004134245_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241002180223_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20241002180223_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241002100840_addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20241002100840_addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20240930154038_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20240929112122_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\92597cc7c20e3f5dd0a1ecfac4f1f4edd480fe49732c839ba9adac9b514dbeb8\\EndpointRoutingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\6e5c5c0a8bd4d02dada9f3d7017d0c7cf14bc618c0cda89909bd833e1c8e00cc\\EndpointMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\movie_assignment\\movie booking application\\data_access_layer\\migrations\\20241005075101_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6268B064-7231-4072-BC51-84AE02AE96E0}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\migrations\\20241005075101_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Business_Layer\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:15:49.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\AdminService.cs",
+              "RelativeToolTip": "Business_Layer\\Services\\AdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:04:44.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Presentation_Layer\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation_Layer\\appsettings.json",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Presentation_Layer\\appsettings.json",
+              "RelativeToolTip": "Presentation_Layer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T14:31:27.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Presentation_Layer\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Program.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Presentation_Layer\\Program.cs",
+              "RelativeToolTip": "Presentation_Layer\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:09:24.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAuwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:42:19.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:13:52.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Business_Layer\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:26:20.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Services\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\IAdminService.cs",
+              "RelativeToolTip": "Business_Layer\\Services\\IAdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:07:31.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Business_Layer\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:14:59.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Business_Layer\\Services\\AuthService.cs",
+              "RelativeToolTip": "Business_Layer\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:26:56.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:14:49.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:13:10.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repositories\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\IAdminRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repositories\\IAdminRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:10:27.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repositories\\AdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:09:44.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Presentation_Layer\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Presentation_Layer\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:00:04.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Presentation_Layer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Presentation_Layer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAASwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:40:36.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Presentation_Layer\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Presentation_Layer\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:58:40.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:19:55.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TicketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\TicketDTO.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\TicketDTO.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\TicketDTO.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\TicketDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:17:53.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShowDto.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\ShowDto.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\ShowDto.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\ShowDto.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\ShowDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:17:24.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\MovieDto.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\MovieDto.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\MovieDto.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\MovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:16:53.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-05T18:59:50.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Models\\User.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:10:16.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:31:17.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Models\\Ticket.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:14:15.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Show.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Models\\Show.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\Show.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Models\\Show.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\Show.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAywCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:12:49.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Models\\Movie.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:11:00.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:16:06.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241005075101_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241005075101_add.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20241005075101_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241005075101_add.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20241005075101_add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:51:01.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241004171209_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241004171209_add.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20241004171209_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241004171209_add.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20241004171209_add.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:12:09.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241002180223_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241002180223_add.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20241002180223_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241002180223_add.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20241002180223_add.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:02:23.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241004134245_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241004134245_add.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20241004134245_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241004134245_add.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20241004134245_add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:42:45.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:32:59.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241002100840_addd.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241002100840_addd.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20241002100840_addd.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie_Assignment\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20241002100840_addd.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20241002100840_addd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:08:41.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240930154038_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20240930154038_add.cs",
+              "RelativeDocumentMoniker": "..\\..\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20240930154038_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20240930154038_add.cs",
+              "RelativeToolTip": "..\\..\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20240930154038_add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:40:38.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c09d8586b5209c4c2e2bccdd9ecbecb5838547098299787088a2a8f90ae3e503\\ActionMethodExecutor.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAIwIIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:31:55.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240929112122_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20240929112122_add.cs",
+              "RelativeDocumentMoniker": "..\\..\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20240929112122_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20240929112122_add.cs",
+              "RelativeToolTip": "..\\..\\Movie Booking Application\\Data_Access_Layer\\Migrations\\20240929112122_add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:21:22.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EndpointMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\6e5c5c0a8bd4d02dada9f3d7017d0c7cf14bc618c0cda89909bd833e1c8e00cc\\EndpointMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6e5c5c0a8bd4d02dada9f3d7017d0c7cf14bc618c0cda89909bd833e1c8e00cc\\EndpointMiddleware.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\6e5c5c0a8bd4d02dada9f3d7017d0c7cf14bc618c0cda89909bd833e1c8e00cc\\EndpointMiddleware.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6e5c5c0a8bd4d02dada9f3d7017d0c7cf14bc618c0cda89909bd833e1c8e00cc\\EndpointMiddleware.cs [Read Only]",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwGcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:32:14.309Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ResourceInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs [Read Only]",
+              "ViewState": "AQIAALwAAAAAAAAAAAAIwMsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:32:06.734Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeveloperExceptionPageMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs [Read Only]",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwEkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:32:18.311Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EndpointRoutingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\92597cc7c20e3f5dd0a1ecfac4f1f4edd480fe49732c839ba9adac9b514dbeb8\\EndpointRoutingMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\92597cc7c20e3f5dd0a1ecfac4f1f4edd480fe49732c839ba9adac9b514dbeb8\\EndpointRoutingMiddleware.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\92597cc7c20e3f5dd0a1ecfac4f1f4edd480fe49732c839ba9adac9b514dbeb8\\EndpointRoutingMiddleware.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\92597cc7c20e3f5dd0a1ecfac4f1f4edd480fe49732c839ba9adac9b514dbeb8\\EndpointRoutingMiddleware.cs [Read Only]",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAIwHgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:32:15.74Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ControllerActionInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs [Read Only]",
+              "ViewState": "AQIAAHUBAAAAAAAAAAAIwIABAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:31:59.83Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

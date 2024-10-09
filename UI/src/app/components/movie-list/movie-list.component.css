@@ -1,0 +1,87 @@
+/* Container for the date picker */
+.date-picker-container {
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .date-picker {
+    padding: 8px 12px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+  }
+  
+  /* Movie container */
+  .movies-container {
+    margin-top: 20px;
+  }
+  
+  .movies-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Movie list and item styles */
+  .movie-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .movie-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .movie-item:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .movie-details {
+    flex-grow: 1;
+  }
+  
+  .movie-link {
+    font-size: 18px;
+    text-decoration: none;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .movie-link:hover {
+    text-decoration: underline;
+  }
+  
+  /* Button styling */
+  .movie-btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .movie-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  /* No movies message */
+  .no-movies {
+    font-size: 18px;
+    color: #999;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
